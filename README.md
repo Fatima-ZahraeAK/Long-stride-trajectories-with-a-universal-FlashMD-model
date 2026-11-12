@@ -56,6 +56,8 @@ Tested with flashmd 0.3.0, torch 2.14.1 and ase 3.29.0.
 - One molecule, in vacuum, one temperature, one pretrained model (PET-OMATPES-v2).
 
 ## Reference
-
-F.-Z. Akhyar, W. Zhang, G. Stoltz, C. Schütte, *Generative modeling of conditional probability distributions on the
+- F. Bigi, S. Chong, A. Kristiadi, M. Ceriotti, *FlashMD: long-stride, universal prediction of molecular
+  dynamics*, NeurIPS 2025, [arXiv:2505.19350](https://arxiv.org/abs/2505.19350).
+- Long-stride trajectories with a universal FlashMD model, The Atomistic Cookbook,(https://atomistic-cookbook.org/examples/flashmd/flashmd-demo.html).
+- F.-Z. Akhyar, W. Zhang, G. Stoltz, C. Schütte, *Generative modeling of conditional probability distributions on the
 level-sets of collective variables*, [arXiv:2512.17374](https://arxiv.org/abs/2512.17374).
